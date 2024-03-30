@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Максим Жердев](https://up.htmlacademy.ru/javascript/31/user/244276).
-* Наставник: [Юрий Белобородов] (https://htmlacademy.ru/profile/id514591).
+* Наставник: [Юрий Белобородов] (https://htmlacademy.ru/profile/id514591m).
 
 ---
 
